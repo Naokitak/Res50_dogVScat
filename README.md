@@ -1,7 +1,7 @@
 # Res50_dogVScat
 
-##DEMO
+## DEMO
 
-##Features
+## Features
 
-##Requirement
+## Requirement
